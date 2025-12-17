@@ -1,0 +1,11 @@
+rank,probability_score,name,title,company,person_location,company_hq,work_mode,email
+1,100,Dr John Smith,Director of Toxicology,ABC Biotech,Boston,Cambridge MA,Remote,john@abcbiotech.com
+2,95,Dr Priya Nair,Head of Preclinical Safety,GenovaBio,Cambridge MA,Cambridge MA,Onsite,priya@genovabio.com
+3,90,Dr Michael Brown,VP Safety Biology,OncoNova,Bay Area,Bay Area,Onsite,michael@onconova.com
+4,85,Dr Andreas Müller,Director of Investigative Toxicology,BioHelix,Munich,Basel,Remote,andreas@biohelix.com
+5,80,Dr Robert Wilson,Director of Safety Pharmacology,CardioLife,Boston,Boston,Onsite,robert@cardiolife.com
+6,60,Dr Emily Chen,Head of Safety Process,NeoPharma,Basel,Basel,Onsite,emily@neopharma.com
+7,40,Dr Laura Martinez,Senior Toxicologist,HepatoTech,San Diego,San Diego,Onsite,laura@hepatotech.com
+8,30,Dr Sarah Patel,Principal Scientist,TheraGen,London,UK Golden Triangle,Remote,sarah@theragen.com
+9,10,Jane Doe,Junior Scientist,StartupX,Texas,San Diego,Remote,jane@startupx.com
+10,5,Dr Kevin Lee,Scientist,EarlyBio,Toronto,Toronto,Onsite,kevin@earlybio.com
