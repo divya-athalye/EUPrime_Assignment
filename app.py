@@ -6,7 +6,7 @@ st.set_page_config(page_title="EUPrime Lead Ranking", layout="wide")
 st.title("3D in-vitro Lead Qualification Dashboard")
 
 # data loading
-df = pd.read_csv("data.csv")
+df = pd.read_csv("data-data.csv")
 
 # filters
 title_filter = st.text_input("Filter by Title:")
